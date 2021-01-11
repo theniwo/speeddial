@@ -1,7 +1,6 @@
-# speeddial
-Speeddial logos
+#Speeddial logos
 
-I made a set of custom speeddial logos for the vivaldi browser.
+A set of custom speeddial logos for the vivaldi browser.
 
  <img src=https://github.com/theniwo/speeddial/blob/main/custom/4anime.png  width="200">  <img src= https://github.com/theniwo/speeddial/blob/main/custom/amazon.png  width="200">  <img src=https://github.com/theniwo/speeddial/blob/main/custom/avidemux.png width="200">   <img src=https://github.com/theniwo/speeddial/blob/main/custom/awesome.png width="200">
  <img src=https://github.com/theniwo/speeddial/blob/main/custom/baobab.png width="200"> <img src=https://github.com/theniwo/speeddial/blob/main/custom/bitwarden.png width="200"> <img src=https://github.com/theniwo/speeddial/blob/main/custom/bitwarden_2.png width="200">             <img src=https://github.com/theniwo/speeddial/blob/main/custom/bitwarden_3.png width="200">
