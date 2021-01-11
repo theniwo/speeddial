@@ -1,4 +1,4 @@
-#Speeddial logos
+# Speeddial logos
 
 A set of custom speeddial logos for the vivaldi browser.
 
