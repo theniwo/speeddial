@@ -4,7 +4,7 @@ Speeddial logos
 I made a set of custom speeddial logos for the vivaldi browser.
 
 |:--------------------------------------------------------------------------------:|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| ![]( https://github.com/theniwo/speeddial/blob/main/custom/4anime.png?raw=true ) | ![]( https://github.com/theniwo/speeddial/blob/main/custom/amazon.png?raw=true ) | ![](https://github.com/theniwo/speeddial/blob/main/custom/avidemux.png?raw=true) |
+| ![]( https://github.com/theniwo/speeddial/blob/main/custom/4anime.png?raw=true ) | ![]( https://github.com/theniwo/speeddial/blob/main/custom/amazon.png?raw=true ) | ![](https://github.com/theniwo/speeddial/blob/main/custom/avidemux.png?raw=true =250x) |
 | ![](https://github.com/theniwo/speeddial/blob/main/custom/baobab.png?raw=true)| ![](https://github.com/theniwo/speeddial/blob/main/custom/.png?raw=true)| ![](https://github.com/theniwo/speeddial/blob/main/custom/.png?raw=true)                                                                 |
 | ![](https://github.com/theniwo/speeddial/blob/main/custom/deluge.png?raw=true)| ![](https://github.com/theniwo/speeddial/blob/main/custom/.png?raw=true)| ![](https://github.com/theniwo/speeddial/blob/main/custom/.png?raw=true)                                                                 |
 | ![](https://github.com/theniwo/speeddial/blob/main/custom/fah.png?raw=true)| ![](https://github.com/theniwo/speeddial/blob/main/custom/.png?raw=true)| ![](https://github.com/theniwo/speeddial/blob/main/custom/.png?raw=true)                                                                 |
