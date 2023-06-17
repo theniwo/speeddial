@@ -1,2 +1,6 @@
 #!/bin/bash
-git add . && git commit -m "updated" && git push && echo "Success" || echo "Failed"
+if [ -z  "$*" ]; then
+	echo "Usage: $0 (-p) \"Commit description\""
+else
+	git add . && git commit -m "$1" && git push && echo "Success" || echo "Failed"
+fi
