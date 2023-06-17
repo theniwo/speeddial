@@ -1,6 +1,6 @@
 # Speeddial logos
 
-A set of custom speeddial logos for the vivaldi browser.
+A set of custom speeddial logos for the vivaldi (or any other) browser.
 <!--
 8s/>\ />\ \\\r/g
 %s/\\\n//g
